@@ -72,9 +72,9 @@ Utilities: Type of utilities available
        NoSeWa	Electricity and Gas Only				  전기 및 가스 전용 
        ELO	Electricity only	
 	
-LotConfig: Lot configuration
+LotConfig: Lot configuration 지역 구성
 
-       Inside	Inside lot
+       Inside	Inside lot 
        Corner	Corner lot
        CulDSac	Cul-de-sac
        FR2	Frontage on 2 sides of property
